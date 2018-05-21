@@ -1,5 +1,7 @@
 # Rally CDMX
 
+[Link de la aplicación](https://carolbaam.github.io/rally-cdmx/)
+
 ## Squad
 Equipo de trabajo conformado por:
 
@@ -183,6 +185,8 @@ A través de recorrer la ruta nos aseguramos de que el paseo:
 * Añadir una funcionalidad de monedero o pago desde la aplicación
 * Añadir un calendario o cartelera que indique los eventos disponibles en recintos cercanos el día del recorrido
 * Añadir la opción de compara de boletos para obras de teatro, entradas a museos, conciertos, etc.
+
+[Link de la aplicación](https://carolbaam.github.io/rally-cdmx/)
 
 
 
