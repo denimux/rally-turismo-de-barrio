@@ -92,20 +92,31 @@ Corredor Roma-Condesa ccromacondesa.mx
 
 Nombre: Rally CDMX 
 Sketching:
-![login](assets/images/sketch1.jpg)
-![perfil](assets/images/sketch2.jpg)
-![inicio](assets/images/sketch3.jpg)
+![login sketch](assets/images/sketch1.jpg)
+![perfil sketch](assets/images/sketch2.jpg)
+![inicio sketch](assets/images/sketch3.jpg)
 
 ## Log in
 
 ## Home
 
+![Home](assets/images/app-imgs/home-html.png)
+
 ## Elegir recorrido
+
+![Elegir](assets/images/app-imgs/choosing-route1-html.png)
+
+![Ruta](assets/images/app-imgs/screencapture-route1-sn-angel.png)
 
 ## La Trivia
 
+![Trivia](assets/images/app-imgs/quizz.png)
+
 ## Los Puntos
 
+![Puntos](assets/images/app-imgs/score.png)
+
+![Puntos](assets/images/app-imgs/score2.png)
 
 
 ## DISEÑO DE EXPERIENCIA DE USUARIO
@@ -126,7 +137,54 @@ Ofreceremos Rally de manera gratuita, de modo que los ingresos de la aplicación
 
 ## Selección del Barrio 
 
+Elegimos iniciar con el barrio de San Ángel por las siguientes razones
+
+* Es un lugar con atractivo turístico pero con áreas poco conocidas
+* Es un lugar rico en leyendas
+* Posee atractivo arquitectónico
+* Hay sitios sencillos pero cuyo valor radica en la belleza, la tranquilidad, la vegetación u otras características particulares 
+* Es accesible para llegar en transporte público (queremos incentivar la caminata)
+* Hay diversos sitios para comer, descansar o adquirir una amplia diversidad de productos
+* Es accesible para una amplia variedad de perfiles
+* Hay museos y teatros con oferta cultural para quien desee complementar su recorrido
+
+Se planteó una ruta basándonos en google maps y posteriormente se validó haciendo el recorrido a pie.
+
+
 ## San Ángel: Validación del recorrido
+
+A través de recorrer la ruta nos aseguramos de que el paseo:
+
+* Fuera seguro
+* Cómodo
+* Atractivo
+* Entretenido
+* Económico
+* Tuviera zonas de descanso
+* Contara con servicios de alimentos o bebidas
+* Comercialmente activo
+* Planteara retos interesantes
+
+## Conclusiones 
+
+* La ruta no solo cumplió nuestros objetivos sino que superó nuestras expectativas
+* Es posible que los horarios de ciertos recintos varíen de acuerdo al día de la semana
+* Hay comerciantes entusiasmados con participar en la aplicación
+* Las personas sí la usarían
+
+
+## Mejoras para el futuro
+
+* Añadir rutas
+* Mejorar y modernizar la interfaz 
+* Mejorar y modernizar la interacción
+* Segmentar mejor los perfiles de usuario para personalizar los recorridos (parejas, familias, turistas, etc.)
+* Personalizar las opciones de anuncios y ofertas
+* Añadir una funcionalidad de monedero o pago desde la aplicación
+* Añadir un calendario o cartelera que indique los eventos disponibles en recintos cercanos el día del recorrido
+* Añadir la opción de compara de boletos para obras de teatro, entradas a museos, conciertos, etc.
+
+
 
 
 
