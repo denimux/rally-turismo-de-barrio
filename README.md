@@ -1,3 +1,6 @@
+![rally-square](https://user-images.githubusercontent.com/32871457/40625206-9abea5a2-6276-11e8-809c-d0b1f1be1ad1.png)
+
+
 # Rally CDMX
 
 [Link de la aplicación](https://carolbaam.github.io/rally-cdmx/)
